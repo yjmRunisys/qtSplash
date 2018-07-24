@@ -1,0 +1,10 @@
+﻿<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Splash.qml</file>
+        <file>img/splash.jpg</file>
+        <file>res/splashscreen.png</file>
+        <file>MainView.qml</file>
+        <file>res/logo.gif</file>
+    </qresource>
+</RCC>
